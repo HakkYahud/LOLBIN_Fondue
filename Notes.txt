@@ -1,0 +1,3 @@
+https://www.ired.team/offensive-security/code-execution/executing-code-in-control-panel-item-through-an-exported-cplapplet-function
+https://i.blackhat.com/USA-19/Thursday/us-19-Kotler-Process-Injection-Techniques-Gotta-Catch-Them-All.pdf
+https://isaratech.com/cpp-dll-injection-using-createremotethread-on-windows/
